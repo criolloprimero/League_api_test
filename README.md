@@ -27,14 +27,14 @@ So as we can see in the second chart, a cut down version of the data that are ju
 
 Champions with above a 50% win rate
 
-	championName	win	assists
-0	Ahri	win	100.000000
-3	Caitlyn	win	84.210526
-5	Draven	win	100.000000
-7	Garen	win	94.117647
-11	Hecarim	win	100.000000
-17	Karthus	win	100.000000
-23	Lucian	win	57.647059
+| |championName|win|assists|
+|0|Ahri|win|100.000000|
+|3|Caitlyn|win|84.210526|
+|5|Draven|win|100.000000|
+|7|Garen|win|94.117647|
+|11|Hecarim|win|100.000000|
+|17|Karthus|win|100.000000|
+23|Lucian|win|57.647059
 27	Malzahar	win	52.422907
 29	MasterYi	win	65.217391
 33	Nasus	win	52.631579
